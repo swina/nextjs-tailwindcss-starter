@@ -1,0 +1,9 @@
+services:
+  app:
+    image: nextjs-demo
+    build: .
+    container_name: nextjs-demo
+    volumes: 
+      - .:/app
+    ports:
+      - "3000:3000"
