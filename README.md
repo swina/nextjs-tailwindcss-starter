@@ -15,3 +15,6 @@ docker-compose run --name nextjs-demo -p 3000:3000 --rm app bash
 ### First time run in docker
 
 `npm i`
+
+## Deploy to AWS BeanStalk
+Ready to be deployed on AWS BeanStalk using a standard AWS Pipeline
