@@ -1,5 +1,5 @@
 # NextJS + TailwindCSS
-
+v1.0.0
 This is a starter template for [Learn Next.js](https://nextjs.org/learn) and [TailwindCSS](https://tailwindcss.com)
 
 
